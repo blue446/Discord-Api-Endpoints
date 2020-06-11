@@ -1,4 +1,7 @@
 POST: https://discord.com/api/v6/auth/login
+This is the format that you must follow in order for a succesfukly login
+``Login = "{\"email\":\"@gmail.com\",\"password\":\"password\",\"undelete\":false,\"captcha_key\":null,\"login_source\":null,\"gift_code_sku_id\":null}"
+``
 ```py
 class Login():
     #headers = ({'content-type': "application/json"}) 
