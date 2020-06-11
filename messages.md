@@ -1,5 +1,5 @@
-# This file represants what is needed to send a message.
-so far i've only found that you can do it once every {} so many minutes with the default Nonce
+# This file represents what is needed to send a message.
+so far I've only found that you can send a message once every {} minutes with the default Nonce
 so far
 ```py
 import requests
