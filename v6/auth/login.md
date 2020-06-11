@@ -1,3 +1,4 @@
+POST: https://discord.com/api/v6/auth/login
 ```py
 class Login():
     #headers = ({'content-type': "application/json"}) 
