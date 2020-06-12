@@ -6,7 +6,7 @@ I have put this into a .env i suggest you'd do the same.
 ``
 ```py
 class Login():
-    #headers = ({'content-type': "application/json"}) 
+    headers = ({'content-type': "application/json"}) 
     load_dotenv() # So it won't return None
     Creds = os.getenv("Login")
 
