@@ -16,7 +16,7 @@ print(Token)
 LoginNTokenHeaders = LoginNToken.headers
 print(LoginNTokenHeaders)
 ```
-If you've done this correcly it'll return for e.g
-```
+If you've done this coorrectlly it'll return for:
+``json
 {'token': 'Your account token', 'user_settings': {'locale': 'en-US', 'theme': '
-dark'}}
+dark'}}``
