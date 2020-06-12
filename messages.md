@@ -26,3 +26,4 @@ print(response.json(), response)
 ```
 
 Note: Not sure if the ``def random_with_n_digits(n)`` is needed nor ``headers = {'x-super-properties': ""}``
+UPDATE: I've timed about 11min from each message i'll try for 10 next.
