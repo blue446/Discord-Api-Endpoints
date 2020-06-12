@@ -3,7 +3,6 @@ This is the format that you must follow in order to successfully login
 I have put this into a .env i suggest you'd do the same.
 ``Login = "{\"email\":\"@gmail.com\",\"password\":\"password\",\"undelete\":false,\"captcha_key\":null,\"login_source\":null,\"gift_code_sku_id\":null}"``
 
-``
 ```py
 class Login():
     headers = ({'content-type': "application/json"}) 
