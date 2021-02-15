@@ -161,3 +161,9 @@ Base-URL: https://canary.discordapp.com/api/v6
 ### /guilds/:guild-id/prune
 ### /guilds/:guild-id/integrations
 ### /guilds/:guild-id/integrations/:integration-id/sync
+&nbsp;
+&nbsp;
+# DELETE
+&nbsp;
+### https://discord.com/api/v8/users/@me/guilds/guild-id
+
